@@ -1,0 +1,6 @@
+{
+  "name": "M Siddiq Nihari House & Restaurant",
+  "description": "Authentic Pakistani dining with an online ordering system, customizable slow-cooked Nihari specialties, and an integrated menu management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
